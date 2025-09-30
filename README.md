@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-Heyyy i'm **Moses**, currently pretending to do stats at Imperial 
+Heyyy I'm **Moses**, currently pretending to do stats at Imperial 
 
 - 🔭 I’m currently working on trying to pass my masters
 - 🌱 I’m currently learning README
@@ -9,4 +8,3 @@ Heyyy i'm **Moses**, currently pretending to do stats at Imperial
 - 💬 Ask me about life during unemployment
 - 📫 How to reach me: physical letters
 - 😄 Pronouns: Unemployed
--->
